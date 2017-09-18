@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Khoa  Pham training
 
 Sao ky vay ta
 
 90 Le thi Rieng
 
+=======
+>>>>>>> parent of 828e279... khoapham.txt changed
